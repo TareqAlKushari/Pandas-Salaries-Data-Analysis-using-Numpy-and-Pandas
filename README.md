@@ -64,9 +64,6 @@ The notebook explores and answers several questions, such as:
 By working through this notebook, you will learn:
 
 - How to manipulate CSV data with Pandas
-
 - How to use NumPy for numerical operations
-
 - Techniques for basic data analysis and visualization
-
 - Insights extraction from tabular data
