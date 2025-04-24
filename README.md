@@ -40,3 +40,59 @@ git clone https://github.com/TareqAlKushari/Pandas-Salaries-Data-Analysis-using-
 cd Pandas-Salaries-Data-Analysis-using-Numpy-and-Pandas
 ```
 
+### 2. Install dependencies
+Make sure you have Python 3 installed. Then, install the required packages:
+
+bash
+Copy
+Edit
+pip install pandas numpy jupyter
+
+### 3. Launch the Jupyter Notebook
+bash
+Copy
+Edit
+jupyter notebook "Salaries Data Analysis.ipynb"
+
+## 📈 Sample Insights
+The notebook explores and answers several questions, such as:
+
+- What is the average base pay?
+- Who has the highest overtime pay?
+- What are the most common job titles?
+- How does a job title correlate with salary?
+- How many unique job titles exist?
+
+🧠 Learning Objectives
+By working through this notebook, you will learn:
+
+How to manipulate CSV data with Pandas
+
+How to use NumPy for numerical operations
+
+Techniques for basic data analysis and visualization
+
+Insights extraction from tabular data
+
+🤝 Contributing
+Feel free to fork the repository and submit pull requests with improvements or enhancements. All kinds of contributions are welcome!
+
+📜 License
+This project is open-source and available under the MIT License.
+
+Author: Tareq Al-Kushari
+
+yaml
+Copy
+Edit
+
+---
+
+Let me know if you want to include a preview image or add sections like "Future Improvements" or "Known Issues"!
+
+
+
+
+
+
+
