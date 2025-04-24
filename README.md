@@ -25,7 +25,7 @@ This is a great example for students or new data analysts to learn how to explor
 ## 📁 Files
 
 - `Salaries.csv` — The dataset used in the analysis.
-- `Salaries Data Analysis.ipynb` — Jupyter notebook containing the step-by-step analysis.
+- `Pandas Salaries.ipynb` — Jupyter notebook containing the step-by-step analysis.
 - `README.md` — Project documentation.
 
 ## 🚀 Getting Started
@@ -46,7 +46,7 @@ pip install pandas numpy jupyter
 
 ### 3. Launch the Jupyter Notebook
 ```bash
-jupyter notebook "Salaries Data Analysis.ipynb"
+jupyter notebook "Pandas Salaries.ipynb"
 ```
 
 ## 📈 Sample Insights
