@@ -1,6 +1,3 @@
-# Pandas-Salaries-Data-Analysis-using-Numpy-and-Pandas
-Pandas salaries data analysis using Numpy and Pandas in Python.
-
 # Pandas Salaries Data Analysis using Numpy and Pandas
 
 This project demonstrates a basic data analysis workflow using **NumPy** and **Pandas** to explore a salary dataset. It is designed as a beginner-friendly introduction to data wrangling, data cleaning, and basic analysis in Python.
@@ -63,7 +60,7 @@ The notebook explores and answers several questions, such as:
 - How does a job title correlate with salary?
 - How many unique job titles exist?
 
-🧠 Learning Objectives
+## 🧠 Learning Objectives
 By working through this notebook, you will learn:
 
 How to manipulate CSV data with Pandas
@@ -74,15 +71,15 @@ Techniques for basic data analysis and visualization
 
 Insights extraction from tabular data
 
-🤝 Contributing
+## 🤝 Contributing
 Feel free to fork the repository and submit pull requests with improvements or enhancements. All kinds of contributions are welcome!
 
-📜 License
+## 📜 License
 This project is open-source and available under the MIT License.
 
 Author: Tareq Al-Kushari
 
-yaml
+```yaml
 Copy
 Edit
 
