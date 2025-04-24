@@ -79,9 +79,7 @@ This project is open-source and available under the MIT License.
 
 Author: Tareq Al-Kushari
 
-```yaml
-Copy
-Edit
+```yaml Copy Edit
 
 ---
 
