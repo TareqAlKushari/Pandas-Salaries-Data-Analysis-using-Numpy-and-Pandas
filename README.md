@@ -40,16 +40,18 @@ cd Pandas-Salaries-Data-Analysis-using-Numpy-and-Pandas
 ### 2. Install dependencies
 Make sure you have Python 3 installed. Then, install the required packages:
 
-bash
+```bash
 Copy
 Edit
 pip install pandas numpy jupyter
+```
 
 ### 3. Launch the Jupyter Notebook
-bash
+```bash
 Copy
 Edit
 jupyter notebook "Salaries Data Analysis.ipynb"
+```
 
 ## 📈 Sample Insights
 The notebook explores and answers several questions, such as:
