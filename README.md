@@ -63,31 +63,10 @@ The notebook explores and answers several questions, such as:
 ## 🧠 Learning Objectives
 By working through this notebook, you will learn:
 
-How to manipulate CSV data with Pandas
+- How to manipulate CSV data with Pandas
 
-How to use NumPy for numerical operations
+- How to use NumPy for numerical operations
 
-Techniques for basic data analysis and visualization
+- Techniques for basic data analysis and visualization
 
-Insights extraction from tabular data
-
-## 🤝 Contributing
-Feel free to fork the repository and submit pull requests with improvements or enhancements. All kinds of contributions are welcome!
-
-## 📜 License
-This project is open-source and available under the MIT License.
-
-Author: Tareq Al-Kushari
-
-```yaml Copy Edit
-
----
-
-Let me know if you want to include a preview image or add sections like "Future Improvements" or "Known Issues"!
-```
-
-
-
-
-
-
+- Insights extraction from tabular data
