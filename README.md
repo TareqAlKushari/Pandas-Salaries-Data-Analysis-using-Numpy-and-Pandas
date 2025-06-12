@@ -65,3 +65,7 @@ By working through this notebook, you will learn:
 - How to use NumPy for numerical operations
 - Techniques for basic data analysis and visualization
 - Insights extraction from tabular data
+
+## Author
+
+Created by [@TareqAlKushari](https://github.com/TareqAlKushari).
